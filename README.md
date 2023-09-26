@@ -2,6 +2,47 @@
 
 ## Software Engineering and Internet Computing
 
+### Overview
+
+Aus der Liste der Vertiefungsmodule sind mindestens zwei zu wählen.
+Im Rahmen von Vertiefungsmodulen müssen zwei Seminare absolviert werden.
+In Vertiefungsmodulen sind Lehrveranstaltungen von mind. 57 ECTS zu absolvieren.
+Übersicht:
+
+<table>
+  <thead>
+    <tr>
+      <th>Modul</th>
+      <th>ECTS</th>
+      <th>Summe</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vertiefungsmodul</td>
+      <td>57</td>
+      <td>57</td>
+    </tr>
+    <tr>
+      <td>Pflichtmodule</td>
+      <td>24</td>
+      <td>81</td>
+    </tr>
+    <tr>
+      <td>Diplomarbeit</td>
+      <td>30</td>
+      <td>111</td>
+    </tr>
+    <tr>
+      <td>Freie Wahlfächer</td>
+      <td>9</td>
+      <td>120</td>
+    </tr>
+
+  </tbody>
+</table>
+
+
 <table>
   <thead>
     <tr>
@@ -31,7 +72,7 @@
     <tr>
       <td>Distributed Systems</td>
       <td>
-        <div>Internet Computing and Distributed Systems Technologies</div>
+        <div>Internet Computing and Distributed Systems Technologies [REQUIRED]</div>
         <div>Distributed Systems and Networking</div>
         <div>Projekt aus Software Engineering & Internet Computing</div>
       </td>
@@ -49,7 +90,7 @@
     <tr>
       <td>Formale Methoden</td>
       <td>
-        <div>Formal Methods in Computer Science</div>
+        <div>Formal Methods in Computer Science [REQUIRED]</div>
         <div>Algorithmik</div>
         <div>Formale Methoden und Theoretische Informatik</div>
         <div>Projekt aus Software Engineering & Internet Computing</div>
@@ -88,7 +129,7 @@
     <tr>
       <td>Software Engineering</td>
       <td>
-        <div>Advanced Software Engineering</div>
+        <div>Advanced Software Engineering [REQUIRED]</div>
         <div>Software Engineering</div>
         <div>Projekt aus Software Engineering & Internet Computing</div>
       </td>
@@ -116,7 +157,7 @@
       <td>137</td>
     </tr>
     <tr>
-      <td>Diplomarbeit</td>
+      <td>Diplomarbeit [REQUIRED]</td>
       <td>
         <div>Seminar für Diplomand_innen</div>
         <div>Diplomarbeit</div>
@@ -129,7 +170,24 @@
   </tbody>
 </table>
 
+### Chosen ones
+
 ## Data Science
+
+## Misc
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <style>
   .android-green {
